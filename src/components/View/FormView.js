@@ -9,8 +9,8 @@ const FormView = ({ formData, updateFormData, handleSubmit }) => {
                 flexDirection: 'column',
                 alignItems: 'center',
                 justifyContent: 'center',
-                height: '100vh', // Optional: adjust height based on your design
-                gap: '16px', // Optional: Adjust spacing between elements
+                height: '100vh',
+                gap: '16px',
             }}
         >
             <Typography variant="h4" align="center">
